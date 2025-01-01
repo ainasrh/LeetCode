@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ainasrh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ainasrh/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Array
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ainasrh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ainasrh/LeetCode/tree/master/0066-plus-one) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ainasrh/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## String
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ainasrh/LeetCode/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ainasrh/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
