@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ainasrh/LeetCode/tree/master/0066-plus-one) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ainasrh/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
