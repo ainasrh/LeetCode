@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ainasrh/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ainasrh/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ainasrh/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/ainasrh/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ainasrh/LeetCode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ainasrh/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ainasrh/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
