@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ainasrh/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/ainasrh/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ainasrh/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ainasrh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ainasrh/LeetCode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ainasrh/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
