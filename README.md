@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/ainasrh/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/ainasrh/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ainasrh/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ainasrh/LeetCode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/ainasrh/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
 | ------- |
