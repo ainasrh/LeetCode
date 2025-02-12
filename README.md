@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/ainasrh/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/ainasrh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ainasrh/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ainasrh/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2756-buy-two-chocolates](https://github.com/ainasrh/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/ainasrh/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ainasrh/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ainasrh/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ainasrh/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## String
 |  |
