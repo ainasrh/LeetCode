@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ainasrh/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ainasrh/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/ainasrh/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/ainasrh/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ainasrh/LeetCode/tree/master/2491-smallest-even-multiple) |
