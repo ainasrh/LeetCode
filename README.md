@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ainasrh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ainasrh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/ainasrh/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ainasrh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1944-truncate-sentence](https://github.com/ainasrh/LeetCode/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ainasrh/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
