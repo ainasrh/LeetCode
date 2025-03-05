@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ainasrh/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ainasrh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ainasrh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ainasrh/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/ainasrh/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/ainasrh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ainasrh/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ainasrh/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ainasrh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ainasrh/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/ainasrh/LeetCode/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ainasrh/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
