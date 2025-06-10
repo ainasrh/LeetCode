@@ -1,11 +1,6 @@
 class Solution(object):
     def singleNumber(self, nums):
-        for num in nums:
-            if nums.count(num)==1:
-                unique=num
-        return unique        
- 
-            
-            
-
+        for item in nums:
+            if nums.count(item) == 1:
+                return item
         
