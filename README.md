@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ainasrh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ainasrh/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ainasrh/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/ainasrh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/ainasrh/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/ainasrh/LeetCode/tree/master/3226-minimum-number-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ainasrh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ainasrh/LeetCode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ainasrh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 ## String Matching
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ainasrh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ainasrh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ainasrh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ainasrh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
