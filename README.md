@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 | [2714-left-and-right-sum-differences](https://github.com/ainasrh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/ainasrh/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ainasrh/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/ainasrh/LeetCode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ainasrh/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/ainasrh/LeetCode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ainasrh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ainasrh/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ainasrh/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
 | ------- |
