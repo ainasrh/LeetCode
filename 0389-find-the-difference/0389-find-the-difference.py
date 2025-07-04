@@ -4,6 +4,6 @@ class Solution(object):
         #     if not i in s:
         #         return i
         
-        s_sum = sum(ord(ch) for ch in s)
-        t_sum = sum(ord(ch) for ch in t)
-        return chr(t_sum-s_sum)
+        count_s = Counter(s)
+        count_t=Counter(t)
+        return list(count_t - count_s)[0]
