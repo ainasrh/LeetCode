@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ainasrh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ainasrh/LeetCode/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/ainasrh/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ainasrh/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ainasrh/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ainasrh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -110,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ainasrh/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ainasrh/LeetCode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ainasrh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ainasrh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ainasrh/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ainasrh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ainasrh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ainasrh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ainasrh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ainasrh/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ainasrh/LeetCode/tree/master/0414-third-maximum-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ainasrh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2756-buy-two-chocolates](https://github.com/ainasrh/LeetCode/tree/master/2756-buy-two-chocolates) |
