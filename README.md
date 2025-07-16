@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ainasrh/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ainasrh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ainasrh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/ainasrh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ainasrh/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ainasrh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ainasrh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ainasrh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ainasrh/LeetCode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ainasrh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1019-squares-of-a-sorted-array](https://github.com/ainasrh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 ## String Matching
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ainasrh/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ainasrh/LeetCode/tree/master/0414-third-maximum-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/ainasrh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ainasrh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2756-buy-two-chocolates](https://github.com/ainasrh/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/ainasrh/LeetCode/tree/master/3226-minimum-number-game) |
