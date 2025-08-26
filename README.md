@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/ainasrh/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ainasrh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ainasrh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/ainasrh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ainasrh/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ainasrh/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/ainasrh/LeetCode/tree/master/1944-truncate-sentence) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ainasrh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ainasrh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
