@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ainasrh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ainasrh/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ainasrh/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-find-the-highest-altitude](https://github.com/ainasrh/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/ainasrh/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/ainasrh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ainasrh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ainasrh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/ainasrh/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/ainasrh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
