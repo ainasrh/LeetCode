@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/ainasrh/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ainasrh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ainasrh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ainasrh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ainasrh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ainasrh/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ainasrh/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ainasrh/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ainasrh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ainasrh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ainasrh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 ## String Matching
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ainasrh/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ainasrh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ainasrh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ainasrh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/ainasrh/LeetCode/tree/master/2634-minimum-common-value) |
 ## Recursion
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ainasrh/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ainasrh/LeetCode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/ainasrh/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ainasrh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ainasrh/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2756-buy-two-chocolates](https://github.com/ainasrh/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/ainasrh/LeetCode/tree/master/3226-minimum-number-game) |
