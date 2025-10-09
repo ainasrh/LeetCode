@@ -1,9 +1,25 @@
 class Solution(object):
     def findTheDifference(self, s, t):
-        # for i in t:
-        #     if not i in s:
-        #         return i
         
-        count_s = Counter(s)
-        count_t=Counter(t)
-        return list(count_t - count_s)[0]
+        freq = {}
+
+        for char in s:
+            freq[char] = freq.get(char,0) + 1
+        
+        
+
+        
+        for tchar in t:
+
+            if tchar in freq:
+                freq[tchar] -= 1 
+                
+                if freq[tchar] == 0:
+                    del freq[tchar]
+
+                
+                
+
+            else:
+                return tchar
+        
