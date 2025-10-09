@@ -4,12 +4,29 @@ class Solution(object):
         if len(s) != len(t):
             return False
 
-        # Take unique characters from s
-        char = set(s)
+    
+        # char = set(s)
 
-        # iterate through that uniue characters
-        for c in char:
-            #  Check two Character count are same then if not it not a anagram word
-            if s.count(c) != t.count(c):
+
+        # for c in char:
+        
+        #     if s.count(c) != t.count(c):
+        #         return False
+        # return True
+        
+        freq = {}
+
+        for char in s:
+
+            freq[char] = freq.get(char,0) + 1
+        
+        for char in t:
+            if char not in freq:
                 return False
+            else:
+                freq[char] -=1
+                if freq[char] == 0:
+                    del freq[char]
+
+        
         return True
