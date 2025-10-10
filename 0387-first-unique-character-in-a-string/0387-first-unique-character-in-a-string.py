@@ -1,14 +1,16 @@
 from collections import Counter
 class Solution(object):
     def firstUniqChar(self, s):
-        seen={}
-        for ch in s:
-            seen[ch] = seen.get(ch,0) + 1
+        freq = {}
+
+        for char in s:
+            freq[char] = freq.get(char,0) + 1 
+
+
+        for ind,value in enumerate(s):
+            if freq[value] == 1:
+                return ind
         
-        
-        for i,ch in enumerate(s):
-            if seen[ch] == 1:
-                return i
         
         return -1
 
