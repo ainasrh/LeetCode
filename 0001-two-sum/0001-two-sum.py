@@ -1,10 +1,17 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        seen={}
 
-        for num in range(len(nums)):
-            value = target - nums[num]
-            if value in seen:
-                return [seen[value], num]
-            else:
-                seen[nums[num]]  = num
+        seen = {}
+
+        for i in range(len(nums)):
+            bal = target - nums[i]
+                
+            if bal in seen:
+                return [seen[bal],i]
+        
+            if nums[i] not in seen:
+                seen[nums[i]] = i
+                
+
+                
+        print(seen)
