@@ -1,32 +1,17 @@
 class Solution(object):
     def longestCommonPrefix(self, strs):
+        if not strs: return False
 
-        common = ""
 
-        if len(strs) == 0:
-            return common
+        prefix = strs[0]
 
-        test_word = strs[0]
-        
-    
+        for word in strs[1:]:
+            while not  word.startswith(prefix):
+ 
+                prefix = prefix[:-1]
 
-        for index,char in enumerate(test_word):
-        
-
-            for i in range(1,len(strs)):
-
-                if index >= len(strs[i]):
-                    return common 
-
-                if strs[i][index] != char:
-                    return common
+                if not prefix:
+                    return ""
             
-            common = common + char
-        
-        
-    
-        return common
-        
-
-
+        return prefix
 
