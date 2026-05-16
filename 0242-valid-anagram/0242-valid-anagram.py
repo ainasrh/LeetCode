@@ -1,32 +1,30 @@
 class Solution(object):
     def isAnagram(self, s, t):
-       
+        freq = {}
         if len(s) != len(t):
             return False
 
+        for l in s:
+            
+            freq[l] = freq.get(l,0) + 1
+
+        
+        print(freq)
     
-        # char = set(s)
-
-
-        # for c in char:
-        
-        #     if s.count(c) != t.count(c):
-        #         return False
-        # return True
-        
-        freq = {}
-
-        for char in s:
-
-            freq[char] = freq.get(char,0) + 1
-        
-        for char in t:
-            if char not in freq:
-                return False
+        for j in t:
+            if j in freq:
+                
+                if freq[j] >= 1:
+                    freq[j]=freq[j] - 1
+                else:
+                    return False
             else:
-                freq[char] -=1
-                if freq[char] == 0:
-                    del freq[char]
-
+                return False
         
         return True
+
+                
+    
+        print(freq)        
+
+        
