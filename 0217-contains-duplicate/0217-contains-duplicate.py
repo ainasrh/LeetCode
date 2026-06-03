@@ -1,3 +1,13 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        return len(nums) != len(set(nums))
+        
+        mapping =  {}
+
+        for i in range(len(nums)):
+            if nums[i] in mapping:
+                return True
+            
+            mapping[nums[i]] = i
+
+        
+        return False
