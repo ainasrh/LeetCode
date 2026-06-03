@@ -1,16 +1,22 @@
 class Solution(object):
     def twoSum(self, nums, target):
+        mapping = {}
 
-        hashmap = {}
-        
-        for i in range(len(nums)):
-            diff  = target - nums[i]
 
-            if diff in hashmap:
-                return [hashmap[diff],i]
+        for index,num in enumerate(nums):
+            diff  = target - num
+
+
+            if diff in mapping:
+                return [mapping[diff],index]
+                
+            if num not in mapping:
+                mapping[num] = index
             
-            hashmap[nums[i]] = i
             
         
+        print(mapping)
+            
+
 
         
